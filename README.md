@@ -88,13 +88,13 @@ class PagesController extends AppController
 	}
 ```
 
-Ok, Now that our MVC is straight forward(with the data source as well); 
+Ok, Now that our MVC is straight forward(with the data source as well); </br>
 
 # Get The Source Code By:
 
--Cloning the repo or
--Download the ZIP file for this repo
-Unzip and Place Docker 
+-Cloning the repo or</br>
+-Download the ZIP file for this repo</br>
+Unzip and Place Docker </br>
 
 # File Structure
 
@@ -115,8 +115,8 @@ STK|-
  STK|-
 	|docker(Docker containers for CAKEPHP)
 	```
-With `docker` `dir` open from command line;
-To install and build with the application, containers such as, MySQL(though we are not going to use it for this project as it fetches its data from GoogleSheets(through GoogleFinance), PHP-fpm, Webserver:
+With `docker` `dir` open from command line;</br>
+To install and build with the application, containers such as, MySQL(though we are not going to use it for this project as it fetches its data from GoogleSheets(through GoogleFinance), PHP-fpm, Webserver:</br>
 
 ```bash
 mkdir stk
@@ -137,7 +137,7 @@ Starting stk-php-fpm
 etc...
 ```
 
-# Accessing the CakePHP application
+# Accessing the CakePHP application</br>
 Now that the application is live, it can be accessed here: `localhost:8180` 
 	
 
