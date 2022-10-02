@@ -138,7 +138,7 @@ Starting stk-php-fpm
 etc...
 ```
 
-# Accessing the CakePHP application</br>
+# Accessing the CakePHP application
 Now that the application is live, it can be accessed here: `localhost:8180` 
 	
 
