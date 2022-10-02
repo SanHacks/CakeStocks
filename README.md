@@ -6,8 +6,9 @@ The Front End of the web application( displaying a dynamic GoogleSheet)
 
 A simple CakePHP Web Application That Fetches GoogleSheets(Dynamic Stock Prices) For Various Companies. Setting Up and Building a one page project such as this, requires much less sophistication (and complicated manipulation) with the MVC.
 
-Get started right away; 
+# Get started right away; 
 ```
+$mkdir stk
 $ cd /../docker
 $ docker-compose up
 ```
