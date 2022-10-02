@@ -142,3 +142,4 @@ etc...
 Now that the application is live, it can be accessed here: `localhost:8180` 
 	
 
+Some useful links for this project: <a href="https://docs.github.com/en/free-pro-team@latest/packages/using-github-packages-with-your-projects-ecosystem/configuring-docker-for-use-with-github-packages"><p>Configuring Docker For Use With Github Packages</p></a>
